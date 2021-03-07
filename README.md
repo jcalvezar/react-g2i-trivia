@@ -1,4 +1,4 @@
-# TRIVIA Game for G2i
+# React TRIVIA Game
 
-# react-g2i-trivia
+for G2i Game Coding Challenge
 
